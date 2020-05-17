@@ -57,6 +57,12 @@ export default {
           artist: 'Safia Putri Melati',
           src: require('./assets/Minah Gadis Dusun - Safia Putri Melati.mp3')
         }
+        {
+          title: 'Sepasang Kurung Biru',
+          artist: 'Hazama',
+          src: require('./assets/Hazama-Sepasang Kurung Biru.mp3')
+        }
+        
       ],
       player: new Audio()
     }
